@@ -1,7 +1,7 @@
 # AWS-IAM-MFA-Setup-Project
 Creating a IAM User, Creating a User Group, Assigning a Permission to a User and Setting Up MFA.
 # ☁️ Project 1: Securing AWS with IAM, User Groups, and Multi-Factor Authentication (MFA)
-
+![Project 1:](ss1..webp)
 ## 🎯 Project Goal
 Demonstrate foundational security practices in AWS by configuring Identity and Access Management (IAM) to:
 1.  Create a dedicated **IAM User** with an initial password reset required.
