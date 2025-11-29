@@ -34,12 +34,12 @@ Hello all and welcome to my project. In this project I will be showing you how t
 
 ![add user](https://github.com/user-attachments/assets/fb355789-28c1-4567-abc3-c74edb02a862)
 
-<img width="1395" height="648" alt="s2" src="https://github.com/user-attachments/assets/2fce96ab-964e-4236-8382-2f106d6388d4" />
+<img width="1395" height="272" alt="s2" src="https://github.com/user-attachments/assets/9a75fb7a-98e9-4d73-94cd-38a8ae41dd4f" />
 
 ---
 6) Next up, we are going to create a **“User group”** to place our user(s) into. Click on **“Add user to group”**.
    
-![create group](https://github.com/user-attachments/assets/128b3394-ecb4-4928-ba27-9236b49cbbff)
+<img width="2698" height="1166" alt="create group" src="https://github.com/user-attachments/assets/1fa384fb-e079-4abb-838d-42c86f8280d3" />
 
 ---
 7) Enter a **“Group name”**. As you can see below in the image, I chose **“AdminsOfTheWorld”** as the group name.
