@@ -18,14 +18,15 @@ In this project I will be showing you AWS security and access management skills 
 ## ⚙️ Prerequisites & Setup
 
 1.A **AWS account** (New users will be eligible for the 1 year AWS Free Tier).
-  
+
 2.A working **PC/Laptop**. MacOS/Windows
-   
+
 3.Sign into your AWS account. Upon successfully logging into your AWS account, you will be greeted with the AWS Management Console Home. Type “IAM” in the search box and click on **“IAM”**.
    
 ![iam console](https://github.com/user-attachments/assets/d4e408c1-118f-43f3-9a67-55a052afce51)
 
 ---
+
 ## 🛠️ Implementation Steps
 
 5.You will be greeted with the **“Add User”** page. The first thing you must do is to choose a username for your user. For the sake of this project, I use the name **“DemoProjectUser22”**. It is up to you as the root user to choose a name that appropriately helps you properly “MANAGE” and “IDENTIFY” your user(s).
