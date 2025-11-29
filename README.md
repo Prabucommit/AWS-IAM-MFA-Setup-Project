@@ -1,7 +1,3 @@
-![iam console](https://github.com/user-attachments/assets/e2b4180d-d283-4072-bcb7-dbb9c1c08
-![create group](https://github.com/user-attachments/assets/5cdbf031-bfa7-4ae2-b3ea-d28f18db064e)
-![add user](https://github.com/user-attachments/assets/b2905521-7429-4f0f-b7f5-361b95e75e7d)
-08d)
 # AWS-IAM-MFA-Setup-Project
 
 # Creating a IAM User, Creating a User Group, Assigning a Permission to a User and Setting Up MFA.
@@ -25,7 +21,7 @@ Hello all and welcome to my project. In this project I will be showing you how t
    
 3) Sign into your AWS account. Upon successfully logging into your AWS account, you will be greeted with the AWS Management Console Home. Type “IAM” in the search box and click on **“IAM”**.
    
-![IAM Console Search](iam console.webp)
+![iam console](https://github.com/user-attachments/assets/d4e408c1-118f-43f3-9a67-55a052afce51)
 
 ---
 
@@ -37,10 +33,10 @@ Hello all and welcome to my project. In this project I will be showing you how t
 
   The user will have the ability to **change their password upon their next sign-in**, and this is strictly for security reasons.
 
-![User Details - Console Access](add user.webp)
-![User Details - Password Reset](s2.webp)
+![add user](https://github.com/user-attachments/assets/fb355789-28c1-4567-abc3-c74edb02a862)
 
----
+---![create group](https://github.com/user-attachments/assets/c82768f7-3c31-41cd-a870-154c5b2ecfd3)
+
 
 6) Next up, we are going to create a **“User group”** to place our user(s) into. Click on **“Add user to group”**.
 
