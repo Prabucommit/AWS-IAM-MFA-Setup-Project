@@ -1,3 +1,7 @@
+![iam console](https://github.com/user-attachments/assets/e2b4180d-d283-4072-bcb7-dbb9c1c08
+![create group](https://github.com/user-attachments/assets/5cdbf031-bfa7-4ae2-b3ea-d28f18db064e)
+![add user](https://github.com/user-attachments/assets/b2905521-7429-4f0f-b7f5-361b95e75e7d)
+08d)
 # AWS-IAM-MFA-Setup-Project
 
 # Creating a IAM User, Creating a User Group, Assigning a Permission to a User and Setting Up MFA.
