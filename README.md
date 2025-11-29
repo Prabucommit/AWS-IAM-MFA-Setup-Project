@@ -35,50 +35,54 @@ Hello all and welcome to my project. In this project I will be showing you how t
 
 ![add user](https://github.com/user-attachments/assets/fb355789-28c1-4567-abc3-c74edb02a862)
 
----![create group](https://github.com/user-attachments/assets/c82768f7-3c31-41cd-a870-154c5b2ecfd3)
+<img width="1395" height="648" alt="s2" src="https://github.com/user-attachments/assets/2fce96ab-964e-4236-8382-2f106d6388d4" />
+
+---
 
 
 6) Next up, we are going to create a **“User group”** to place our user(s) into. Click on **“Add user to group”**.
-
-![Add User to Group](create group.webp)
+   
+![create group](https://github.com/user-attachments/assets/128b3394-ecb4-4928-ba27-9236b49cbbff)
 
 ---
 
 7) Enter a **“Group name”**. As you can see below in the image, I chose **“AdminsOfTheWorld”** as the group name.
   We are going to give our group **Administrator Access**. Administrator Access provides unlimited access with no restrictions to AWS services and resources. Select **“AdministratorAccess”** and click on **“Create group”**.
 
-![Group Permission - AdministratorAccess](group permission.webp)
+![group permission](https://github.com/user-attachments/assets/fafdbb91-00d6-458b-9d5b-16605cf906d5)
 
 ---
 
 8) Verify here on the review page that everything is setup to your liking before the user and group is officially created. When you are satisfied with how everything is setup, click on **“Create user”**.
 
-![Review Page](review iam.webp)
+![review iam](https://github.com/user-attachments/assets/fc7c38cc-53c8-4a91-bf45-ae82c8bc995b)
 
 ---
 
 9) Finally… Congratulations you have successfully created your user and group!
 
-![User Created Successfully](iam created succesfuly.webp)
+<img width="2250" height="647" alt="iam created succesfuly" src="https://github.com/user-attachments/assets/8647512f-327d-454b-b792-b0ef63a181bb" />
 
 ---
 
 10) Now that the user and group have been officially created, it is time to setup **Multi Factor Authentication (MFA)** for the user. MFA is another layer of security that further helps users ensure that their account is protected. MFA comes in a variety of different methods, including a **virtual MFA device** (Ex: Microsoft Authenticator), a **U2F security key**, and a **hardware-based MFA device**.
 
 11) Under **Security credentials** where it says “Assigned MFA device”, click on **“Manage”**.
+    
+![summary of mfa](https://github.com/user-attachments/assets/497b7677-6ace-4b27-9975-bbaeaec280d5)
 
-![Security Credentials Summary](summary of mfa.webp)
   We will be using a **virtual MFA device** for this project. I used Microsoft Authenticator as the “Manage MFA device”.
-![Manage MFA Device](manage mfa.webp)
+![manage mfa](https://github.com/user-attachments/assets/ba506cca-c9b2-4d5c-8670-b175673e5b4a)
 
 ---
 
 12) Due to security reasons I will not be showing the MFA access codes. Upon entering the MFA code you should get the same successful message. The user now has the peace of mind of knowing that their account is more secured with MFA setup.
-   
-![Assigned MFA Step 1](assigned mfa.webp)
-![MFA Attached to User](mfa attached.webp)
+    
+![assigned mfa](https://github.com/user-attachments/assets/b2856584-5667-4978-8268-dbc46dcac462)
+![mfa attached](https://github.com/user-attachments/assets/3ce4f069-a9cc-440e-a9ac-fa7af3ae2e3b)
+
   **Congratulations!** You have successfully created a IAM user, User group, as well as set up MFA for your user. Do not forget to delete your user if you don’t want them having long-term access group access!
 
-![Delete User Confirmation](delete user.webp)
+![delete user](https://github.com/user-attachments/assets/9f667227-8b78-45e9-ac11-03046b02bc36)
 
 Thank you
