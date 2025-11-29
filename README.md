@@ -1,7 +1,10 @@
 # 🔒 AWS-IAM-MFA-Setup-Project: Enforcing Cloud Security
 
 ## ☁️ Project Goal
-In this project I will be showing you how to create a **IAM User**, create a **user group** to add a user into it, and assigning special permissions for a user as well as mandating **Multi-Factor Authentication (MFA)** for enhanced user security.
+In this project I will be showing you AWS security and access management skills by:
+1.  Creating a dedicated **IAM User** and organizing it within a **User Group**.
+2.  Assigning appropriate **permissions** to the Group.
+3.  Mandating **Multi-Factor Authentication (MFA)** for enhanced user security.
 
 ---
 
