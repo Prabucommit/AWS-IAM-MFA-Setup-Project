@@ -24,7 +24,6 @@ Hello all and welcome to my project. In this project I will be showing you how t
 ![iam console](https://github.com/user-attachments/assets/d4e408c1-118f-43f3-9a67-55a052afce51)
 
 ---
-
 5) You will be greeted with the **“Add User”** page. The first thing you must do is to choose a username for your user. For the sake of this project, I use the name **“DemoProjectUser22”**. It is up to you as the root user to choose a name that appropriately helps you properly “MANAGE” and “IDENTIFY” your user(s).
 
   After choosing a username that fits your liking, you will have the option of choosing how the user will have access to the console. If you select **“Access key — Programatic Access”**, this will require the user to enter a granted access key ID in order to use certain AWS services such as the **Command Line (CL), API (Application Programming Interface), or SDK (Software Development Kit)**.
@@ -38,14 +37,11 @@ Hello all and welcome to my project. In this project I will be showing you how t
 <img width="1395" height="648" alt="s2" src="https://github.com/user-attachments/assets/2fce96ab-964e-4236-8382-2f106d6388d4" />
 
 ---
-
-
 6) Next up, we are going to create a **“User group”** to place our user(s) into. Click on **“Add user to group”**.
    
 ![create group](https://github.com/user-attachments/assets/128b3394-ecb4-4928-ba27-9236b49cbbff)
 
 ---
-
 7) Enter a **“Group name”**. As you can see below in the image, I chose **“AdminsOfTheWorld”** as the group name.
   We are going to give our group **Administrator Access**. Administrator Access provides unlimited access with no restrictions to AWS services and resources. Select **“AdministratorAccess”** and click on **“Create group”**.
 
